@@ -1,0 +1,2 @@
+[23-Mar-2020 16:40:32 UTC] PHP Fatal error:  Cannot use App\File as File because the name is already in use in /home/v2hxn8rrld4r/public_html/exam_app/app/Http/Controllers/ApiController.php on line 12
+[10-May-2020 13:38:03 UTC] PHP Fatal error:  Cannot use App\File as File because the name is already in use in /home/v2hxn8rrld4r/public_html/exam_app/app/Http/Controllers/ApiController.php on line 12
